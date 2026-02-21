@@ -16,7 +16,7 @@ I am a 21-year-old CS student of Pak Austria Fachhochschule Institute of Applied
 * **Skills:** C++, Python, OOP, Data Structures
 
 ## 🌐 Live Demo
-You can view the live site here: [Insert Your GitHub Pages URL Here]
+You can view the live site here: [https://muzayyan-shah.github.io/portfolio/]
 
 ## 📫 Contact
 * **Email:** shah.muzayyan6829@gmail.com
